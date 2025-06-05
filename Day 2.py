@@ -21,8 +21,8 @@ age  = input("Enter your age: ")
 country = input ("Which country are you from? ")
 
 #Loan Details
-loan_amount = float(input("Enter the loan amount:RM "))
-interest_rate = float(input("Enter the interest rate (in %): ")) + (" %")
+loan_amount = float(input("Enter the loan amount: "))
+interest_rate = float(input("Enter the interest rate (in %): "))
 Number_Of_Years = int(input("Enter the number of years for the repayment:")) 
 
 profile = {
